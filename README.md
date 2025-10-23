@@ -3,7 +3,7 @@
 🎯 **Engenheiro de Controle e Automação com foco em QA Engineer** | Testes Automatizados (Cypress, Playwright, Selenium, Appium)  
 💡 Experiência com QA, automação de testes, sistemas embarcados e conhecimento em desenvolvimento de aplicações web e mobile.  
 📍 Pouso Alegre - MG  
-🌐 [LinkedIn]([https://linkedin.com/in/seulink](https://www.linkedin.com/in/marcelloguido/))  
+🌐 [LinkedIn](https://www.linkedin.com/in/marcelloguido/)  
 
 ---
 
