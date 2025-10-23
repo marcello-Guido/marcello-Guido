@@ -16,9 +16,10 @@
 ---
 
 ## 📈 Projetos em Destaque
-- 🔹 [QA-Automation-Cypress]([https://github.com/seuuser/QA-Automation-Cypress](https://github.com/marcello-Guido/primeiros-passos-cypress))  
-- 🔹 [QA-Automation-Cypress]([https://github.com/seuuser/Embedded-Lab-RP2040](https://github.com/marcello-Guido/cypress-realworld-app))  
-- 🔹 [QA-Automation-Cypress]([https://github.com/seuuser/WebApp-Framework7](https://github.com/marcello-Guido/cypress-heroes))  
+- [QA-Automation-Cypress-OrangeHRM](https://github.com/marcello-Guido/QA-Automation-Cypress-OrangeHRM)
+- [QA-Automation-Cypress-RealWorldApp](https://github.com/marcello-Guido/QA-Automation-Cypress-RealWorldApp)
+- [QA-Automation-Cypress-Heroes](https://github.com/marcello-Guido/QA-Automation-Cypress-Heroes)
+
 
 ---
 
